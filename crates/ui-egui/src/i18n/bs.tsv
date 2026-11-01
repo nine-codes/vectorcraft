@@ -1150,7 +1150,7 @@ lighting	Light	Svjetlo
 	 to set the reference point  |  	 za postavljanje referentne tačke  |  
 	 to transform  |  	 za transformisanje  |  
 	 for exact values	 za tačne vrijednosti
-	 to pan the view	 za pomicanje prikaza
+	 to pan the view	 za pomjeranje prikaza
 	 to zoom in  |  	 za uvećanje  |  
 	 to zoom out  |  	 za umanjenje  |  
 	 to zoom into an area	 za zumiranje područja
@@ -1489,7 +1489,7 @@ lighting	Light	Svjetlo
 	Selection Only	Samo odabir
 	{title} (selection)	{title} (odabir)
 	Changed since the last Refresh.	Promijenjeno od posljednjeg osvježavanja.
-	Click to zoom in, Alt-click to zoom out, drag to pan, double-click to fit	Kliknite za uvećanje, Alt-klik za umanjenje, prevucite za pomicanje, dvostruki klik za uklapanje
+	Click to zoom in, Alt-click to zoom out, drag to pan, double-click to fit	Kliknite za uvećanje, Alt-klik za umanjenje, prevucite za pomjeranje, dvostruki klik za uklapanje
 	Fit in Window	Uklopi u prozor
 	Open a document to preview its flattening.	Otvorite dokument da pregledate njegovo spljoštavanje.
 	Overprints:	Pretisci:
@@ -1502,7 +1502,7 @@ lighting	Light	Svjetlo
 	Double-click to insert	Dvostruki klik za umetanje
 	Entire Font	Cijeli font
 	glyph {id}	glif {id}
-	Greek & Cyrillic	Grčko i ćirilica
+	Greek & Cyrillic	Grčko pismo i ćirilica
 	Latin Extended	Proširena latinica
 	Latin-1 Supplement	Latin-1 dodatak
 	No fonts are available.	Nema dostupnih fontova.
